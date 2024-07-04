@@ -1,6 +1,6 @@
-## Yo wsg
+Yo wsg 
 
-<!--
-i like bread and all things tech
-would like to know how things work tbh
--->
+```
+I like bread and all things tech.
+Currently learning game rev, assembly and cryptography
+```
