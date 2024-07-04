@@ -1,4 +1,3 @@
-Yo wsg 
 
 ```
 I like bread and all things tech.
